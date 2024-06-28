@@ -8,8 +8,10 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 - **Consultations:** Apply for consultations with professional advisors.
 - **Company Profiles:** Follow companies and stay updated with their latest news.
 - **Surveys:** Participate in surveys to provide feedback and opinions.
+- **Multi Languages:** Create the app with two languages (English & Arabic).
 
 ## Technologies Used
 - **Flutter:** For building the mobile app.
 - **RESTful APIs:** For server-side interactions.
 - **Dart:** The programming language used for Flutter.
+- **Get State Managment**
