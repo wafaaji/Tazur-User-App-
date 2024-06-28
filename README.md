@@ -37,7 +37,7 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 <div style="display: flex; justify-content: space-between;">
   <img src="assets/screenshots/all_jobs.jpg" alt="All Jobs" width="300"/>
   <img src="assets/screenshots/courses.jpg" alt="Courses" width="300"/>
-  <img src="assets/screenshots/settings" alt="Settings" width="300"/>
+  <img src="assets/screenshots/settings.jpg" alt="Settings" width="300"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
@@ -46,7 +46,7 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/prfile.jpg" alt="Profile" width="300"/>
+  <img src="assets/screenshots/profile.jpg" alt="Profile" width="300"/>
   <img src="assets/screenshots/cv_information1.jpg" alt="CV Infromation1" width="300"/>
   <img src="assets/screenshots/cv_information2.jpg" alt="CV Infromation2" width="300"/>
 </div>
