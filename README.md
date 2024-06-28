@@ -17,7 +17,7 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 - **Get State Managment**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/auth.jpg" alt="Auth" width="300"/>
+  <img src="assets/screenshots/authy.jpg" alt="Auth" width="300"/>
   <img src="assets/screenshots/register.jpg" alt="Register" width="300"/>
   <img src="assets/screenshots/pin_code.jpg" alt="PIN Code" width="300"/>
 </div>
