@@ -29,9 +29,9 @@ The Taazur User App is designed to provide job seekers with a comprehensive plat
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/add_informations1.jpg" alt="Add Informations1" width="300"/>
-  <img src="assets/screenshots/add_informations2.jpg" alt="Add Informations2" width="300"/>
-  <img src="assets/screenshots/add_informations3.jpg" alt="Add Informations3" width="300"/>
+  <img src="assets/screenshots/add_information1.jpg" alt="Add Informations1" width="300"/>
+  <img src="assets/screenshots/add_information2.jpg" alt="Add Informations2" width="300"/>
+  <img src="assets/screenshots/add_information3.jpg" alt="Add Informations3" width="300"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
